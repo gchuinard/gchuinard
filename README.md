@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">  
-  <a placeholder="Bash" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" />
+  <a title="Bash" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" />
     <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />
   </a>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
