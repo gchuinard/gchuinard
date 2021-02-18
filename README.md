@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/gchuinard" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="https://stackoverflow.com/users/11403984/gautier-chuinard?tab=profile" target="_blank">
+  <a href="https://stackoverflow.com/users/12429335/gautier-chuinard?tab=profile" target="_blank">
     <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
   </a>
 </div>
