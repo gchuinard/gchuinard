@@ -3,14 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ## **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
@@ -18,6 +11,11 @@ Here are some ideas to get you started:
 
 ### <div align="center">I'm Gautier, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool), in France 🇫🇷</div>  
   
+ - 🔭 I’m currently working on a personal project in C# with Unity (game in VR !!).
+- 🌱 I’m currently learning Python for the web (flask).
+- 👯 I’m looking for an intership don't hesitate to contact me.
+- 💬 Ask me about anything ! I'm open to all kind of conversation.
+- 📫 How to reach me: my linkedIn <a href="https://linkedin.com/in/gchuinard" >here</a>.
 
 <p align="center">
 
