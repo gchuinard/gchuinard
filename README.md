@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gchuinard/gchuinard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
+### **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
   
 
 ### <div align="center">I'm Gautier, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool), in France 🇫🇷</div>  
