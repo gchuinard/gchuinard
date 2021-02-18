@@ -63,5 +63,3 @@ Here are some ideas to get you started:
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=pforciol&&style=flat-square" align="right" />
 </div>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gchuinard?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
