@@ -50,16 +50,3 @@ Here are some ideas to get you started:
   <img style="margin: 10px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" height="50" />  
   <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/0d/0d35ef6c8d4fdaf0590228404dc6448b.png" alt="CSS3" height="50" />  
 </div>
-
-## My Last Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-- [Python3: Mutable, Immutable… everything is object!](https://medium.com/@pierreforcioli/python3-mutable-immutable-everything-is-object-2043e290d881?source=rss-8c9e27e804e4------2)
-- [The differences between Static and Dynamic Libraries](https://medium.com/@pierreforcioli/the-differences-between-static-and-dynamic-libraries-e25a92407fff?source=rss-8c9e27e804e4------2)
-- [Jim Hague, the 1986’s IOCCC winner](https://medium.com/@pierreforcioli/jim-hague-the-1986s-ioccc-winner-1a8237ccef2c?source=rss-8c9e27e804e4------2)
-- [The C Static Libraries](https://medium.com/@pierreforcioli/the-c-static-libraries-5be2e59f3d6d?source=rss-8c9e27e804e4------2)
-- [What's behind the C Compilation Process](https://medium.com/@pierreforcioli/whats-behind-the-c-compilation-process-a1126da7d21c?source=rss-8c9e27e804e4------2)
-<!-- BLOG-POST-LIST:END -->  
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=pforciol&&style=flat-square" align="right" />
-</div>
