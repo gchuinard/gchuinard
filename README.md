@@ -42,9 +42,23 @@ Here are some ideas to get you started:
   <a title="Bash" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" />
     <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />
   </a>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-  <img style="margin: 10px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/0d/0d35ef6c8d4fdaf0590228404dc6448b.png" alt="CSS3" height="50" />
+  <a title="C" href="https://en.wikipedia.org/wiki/C_%28programming_language%29" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+  </a>
+  <a title="Python" href="https://www.python.org/" />
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" />  
+  </a>
+  <a title="JavaScript" href="https://www.javascript.com/" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+  </a>
+  <a title="HTML5" href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" />
+    <img style="margin: 10px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" height="50" />  
+  </a>
+  <a title="CSS3" href="https://developer.mozilla.org/en-US/docs/Web/CSS" />
+    <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/0d/0d35ef6c8d4fdaf0590228404dc6448b.png" alt="CSS3" height="50" />
+  </a>
+
+ 
+ 
+
 </div>
