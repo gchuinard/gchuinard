@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for an intership don't hesitate to contact me.
 - 💬 Ask me about anything ! I'm open to all kind of conversation.
 - 📫 How to reach me: my linkedIn <a href="https://linkedin.com/in/gchuinard" >here</a>.
+- :rocket: I'm a fan of space, rockets and satellites. (and consetellations, nebulas, stars ...) 
 
 <p align="center">
 
