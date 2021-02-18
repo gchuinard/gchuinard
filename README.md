@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything ! I'm open to all kind of conversation.
 - 📫 How to reach me: my linkedIn <a href="https://linkedin.com/in/gchuinard" >here</a>.
 - :rocket: I'm a fan of space, rockets and satellites. (and consetellations, nebulas, stars ...)
-- :astonished: One of my life goal is to build my own cube sat like this guy --> https://www.youtube.com/watch?v=m8TSiKHZbC8&t=0s
+- :astonished: One of my life goal is to build my own cubesat, like this guy --> https://www.youtube.com/watch?v=m8TSiKHZbC8
 
 <p align="center">
 
