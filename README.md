@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for an intership don't hesitate to contact me.
 - 💬 Ask me about anything ! I'm open to all kind of conversation.
 - 🌱 I’m learning Python for the web (flask) with my school.
-- 🔭 I’m currently working on a personal project in C# with Unity (game in VR !!).
+- 🔭 I’m currently working on a personal project in C++ with Unity (game in VR !!).
 - 📫 How to reach me: my linkedIn <a href="https://linkedin.com/in/gchuinard" >here</a>.
 - :rocket: I'm a fan of space, rockets and satellites. (and consetellations, nebulas, stars ...)
 - :astonished: One of my life goal is to build my own cubesat, like this guy --> https://www.youtube.com/watch?v=m8TSiKHZbC8
