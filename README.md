@@ -56,7 +56,7 @@ Here are some ideas to get you started:
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
   </a>
   <a title="HTML5" href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" />
-    <img style="margin: 10px" src="https://fr.wikipedia.org/wiki/HTML5#/media/Fichier:HTML5_logo_and_wordmark.svg" alt="HTML5" height="50" />  
+    <img style="margin: 10px" src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" alt="HTML5" height="50" />  
   </a>
   <a title="CSS3" href="https://developer.mozilla.org/en-US/docs/Web/CSS" />
     <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/0d/0d35ef6c8d4fdaf0590228404dc6448b.png" alt="CSS3" height="50" />
